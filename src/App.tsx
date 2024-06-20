@@ -1,9 +1,9 @@
+import Router from "./routes/routes"
 
 function App() {
-
   return (
     <>
-     aze
+    <Router />
     </>
   )
 }
